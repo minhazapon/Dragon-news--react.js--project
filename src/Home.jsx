@@ -10,7 +10,7 @@ const Home = () => {
         <div>
 
          
-           <div className=" ">
+           <div className=" flex justify-center  gap-80 ml-10 mr-10 ">
 
 
 
