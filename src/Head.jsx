@@ -23,7 +23,7 @@ const Head = () => {
               
                  <h1 className=' text-2xl font-bold'> {moment().format("dddd, MMMM Do YYYY, h:mm:ss a")}  </h1>
                 <div className=' flex justify-center'>
-                <p className=' mt-10  rounded-xl  font-extrabold text-slate-00'>  <span className=' text-2xl font-bold mr-5 bg-red-600 w-[200px] p-2 rounded-xl text-white'>Lates</span> 
+                <p className=' mt-10  rounded-xl  font-extrabold text-slate-00'>  <span className=' text-2xl font-bold mr-5 bg-red-600 w-[200px] p-2 rounded-xl text-white'>Breaking News</span> 
                 <Marquee className=' mt-4'>
 
                   <img src='../src/assets/images/logo.png' alt="" />
