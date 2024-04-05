@@ -2,7 +2,7 @@
 
 const NewsInfo = ({news}) => {
      
-    const {title, author, name, published_date, img, thumbnail_url, image_url , details} = news
+    const {title, image_url , details} = news
 
 
     return (
